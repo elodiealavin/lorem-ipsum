@@ -1,0 +1,16 @@
+.container {
+  background-color: rgb(194, 184, 184);
+  width: 400px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 5px;
+}
+
+p {
+  font-size: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
